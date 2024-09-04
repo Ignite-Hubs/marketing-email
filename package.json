@@ -1,0 +1,19 @@
+{
+  "name": "marketing-email",
+  "version": "1.0.0",
+  "description": "This is a marketing email template using MJML.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --ext mjml --exec 'mjml src/index.mjml -o public/index.html'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.15.3",
+    "mjml-list": "^3.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

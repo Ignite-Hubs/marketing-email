@@ -1,0 +1,1018 @@
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <meta name="color-scheme" content="dark" />
+      <meta name="supported-color-schemes" content="dark" />
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!-- <mj-section full-width="full-width" background-color="#1754b0">
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0" color="#ffffff"><span style="font-size: 11px">Autumn 2024 Registration is now open!</span></mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="https://mjml.io" style="text-decoration: none; color: inherit">[[PERMALINK_LABEL]]</a></span></mj-text>
+      </mj-column>
+    </mj-section> -->
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66cdf40f65abdb3330f3f8c7.png"
+          alt="Ignite Hubs"
+          padding-bottom="0px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" padding-bottom="10px" padding-top="10px"
+          ><a
+            href="https://www.ignitehubs.org.uk/"
+            style="text-decoration: none; color: inherit"
+            >Home</a
+          >&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a
+            href="https://www.totalgiving.co.uk/donate/ignite-hubs"
+            style="text-decoration: none; color: inherit"
+            >Donate</a
+          >&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+          <a
+            href="https://www.ignitehubs.org.uk/register"
+            style="text-decoration: none; color: inherit"
+            >Register</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-url="https://img.mailinblue.com/8049166/images/content_library/original/66d213bf7b6d06780a6e593c.png"
+      vertical-align="middle"
+      background-size="cover"
+      full-width="full-width"
+      background-repeat="no-repeat"
+    >
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#ffffff"
+          padding-bottom="10px"
+          padding-top="45px"
+          ><span style="font-size: 30px; line-height: 37px; font-weight: bold"
+            >Autumn 2024 Registration is now&nbsp;open!</span
+          ><br /><br />
+        </mj-text>
+        <mj-button
+          align="center"
+          background-color="#73175e"
+          color="#ffffff"
+          border-radius="32px"
+          border="3px solid #ffffff"
+          href="https://www.ignitehubs.org.uk/register"
+          font-family="Nunito Sans, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-bottom="45px"
+          padding-top="10px"
+          font-weight="bold"
+          >Register</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          line-height="37px"
+          font-size="30px"
+          color="#29292b"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Hello</mj-text
+        >
+      </mj-column>
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#29292b"
+          padding-bottom="10px"
+        >
+          Registration is now open for our Autumn 2024 term, and we would be
+          delighted to have your child join us! Classes will begin on the week
+          commencing 16th September 2024.
+          <br /><br />We look forward to welcoming your child this
+          Autumn!</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- Creativity Hub -->
+    <mj-section background-color="#fcbf21">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-image
+          width="61px"
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66d263a15abffb5d74303828.png"
+          alt="Creativity Hub"
+          padding-bottom="0px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="30px"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Creativity Hub</mj-text
+        >
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="14px"
+          line-height="21px"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Unleash your imagination</mj-text
+        >
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#ffffff"
+          padding-bottom="10px"
+        >
+          This Autumn, we are thrilled to launch our new Creativity Hub to
+          nurture and develop creativity. Our remote creative writing course is
+          designed for children and young people aged 11 to 14 years. Through
+          engaging activities and projects, students will explore the world of
+          storytelling, learn to craft compelling narratives, develop unique
+          characters, and experiment with various genres and styles. Let your
+          child's creativity soar with us!
+        </mj-text>
+        <mj-button
+          align="center"
+          background-color="#fcbf21"
+          color="#ffffff"
+          border-radius="32px"
+          border="3px solid #ffffff"
+          href="https://www.ignitehubs.org.uk/creativity-hub"
+          font-family="Nunito Sans, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-top="10px"
+          font-weight="bold"
+          >Learn more</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column
+          width="33.33333333333333%"
+          vertical-align="middle"
+          padding="0px"
+        >
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Class</mj-text
+          >
+        </mj-column>
+        <mj-column
+          width="33.33333333333333%"
+          vertical-align="middle"
+          padding="0px"
+        >
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Day</mj-text
+          >
+        </mj-column>
+        <mj-column
+          width="33.33333333333333%"
+          vertical-align="middle"
+          padding="0px"
+        >
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Time</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- First Data Row -->
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="10px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Creative Writing (11 to 14 yrs old)</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="10px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Thursdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="10px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >5pm to 6pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- CODE HUB -->
+    <mj-section background-color="#45bfde">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-image
+          width="81px"
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66d264155abffb5d7430382d.png"
+          alt="Code Hub"
+          padding-bottom="0px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="30px"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Code Hub</mj-text
+        >
+        <mj-text
+          align="center"
+          line-height="21px"
+          font-size="14px"
+          color="#ffffff"
+        >
+          <span style="font-weight: bold">Remote instructor-led classes</span
+          ><br /><br />
+          Become a digital whizz!
+        </mj-text>
+        <mj-text
+          align="left"
+          color="#ffffff"
+          line-height="21px"
+          font-size="14px"
+        >
+          Our Code Hub offers a range of exciting remote classes for young
+          people aged 7 to 18 years old to learn essential coding skills.
+          Students can create games, develop websites and much more.
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="#ffffff"
+        />
+        <mj-text
+          font-size="30px"
+          line-height="37px"
+          font-weight="bold"
+          align="center"
+          color="#ffffff"
+        >
+          New Course
+        </mj-text>
+        <mj-image
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66d24520dd7eafd97007a982.png"
+          alt="Roblox"
+          padding-bottom="10px"
+          padding-top="10px"
+        ></mj-image>
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#ffffff"
+        >
+          Does your child love Roblox? This term, we are offering a brand-new
+          course to learn how to code in Roblox and build their own games.
+          Students will cover essential programming concepts such as variables,
+          data types, and debugging techniques. Join us for an exciting journey
+          into game development!
+        </mj-text>
+        <mj-button
+          align="center"
+          background-color="#45bfde"
+          color="#ffffff"
+          border-radius="32px"
+          border="3px solid #ffffff"
+          href="https://www.ignitehubs.org.uk/code-hub"
+          font-family="Nunito Sans, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-top="10px"
+          font-weight="bold"
+          >Learn more</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Class</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Day</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Time</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Scratch -->
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Scratch (free for all)</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Mondays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6pm to 7pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Web Design Beginners -->
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Web Design Beginners</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Tuesdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6pm to 7pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Roblox Coding Beginners -->
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Roblox Coding Beginners</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Wednesdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6pm to 7pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Python Beginners -->
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Python Beginners</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Thursdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6pm to 7pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Game Development with Python -->
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Game Development with Python</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Thursdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6pm to 7pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%" vertical-align="middle">
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="#29292b"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          font-size="30px"
+          line-height="37px"
+          color="#1654B1"
+          align="left"
+          font-weight="bold"
+          padding-bottom="10px"
+        >
+          Class fees for the Creativity Hub and Code&nbsp;Hub
+        </mj-text>
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#29292b"
+        >
+          The cost for the term is £60 (apart from Scratch which is free for
+          all). However, places are free for families on benefits, and we offer
+          payment plan options and a bursary fund for discounted places. We
+          believe in making our classes accessible to everyone, and cost should
+          not be a barrier to learning. Please contact us for more information,
+          we are here to help in any way we can.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 0px 10px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          font-size="30px"
+          line-height="37px"
+          color="#1654B1"
+          align="left"
+          font-weight="bold"
+        >
+          Why do we charge&nbsp;fees?
+        </mj-text>
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#29292b"
+          padding-bottom="10px"
+        >
+          As a small charity, your fees help us continue our work and enable us
+          to offer better classes for more children and young people. Thank you
+          for supporting us!</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- STEM HUB -->
+    <mj-section background-color="#9e1f82">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-image
+          width="81px"
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66d263dbdd7eafd97007ac25.png"
+          alt="STEM Hub"
+          padding-bottom="0px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="30px"
+          font-weight="bold"
+          padding-bottom="10px"
+          >STEM Hub</mj-text
+        >
+        <mj-text
+          align="center"
+          line-height="21px"
+          font-size="14px"
+          color="#ffffff"
+          font-weight="bold"
+        >
+          Free onsite classes in libraries across Southwark,&nbsp;London
+        </mj-text>
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          line-height="21px"
+          align="left"
+        >
+          Join us for fun, hands-on activities and projects that will develop
+          your child's STEM and coding skills. Whether they want to build games,
+          robots, or websites, our STEM Hub offers something for everyone aged 7
+          to 18 years.
+        </mj-text>
+        <mj-button
+          align="center"
+          background-color="#9e1f82"
+          color="#ffffff"
+          border-radius="32px"
+          border="3px solid #ffffff"
+          href="https://www.ignitehubs.org.uk/STEM-hub"
+          font-family="Nunito Sans, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-top="10px"
+          font-weight="bold"
+          >Learn more</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Location</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Day</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            font-weight="bold"
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Time</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Canada Water Library</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Mondays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6:15pm to 7:15pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Walworth Library</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Tuesdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6:15pm to 7:15pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Camberwell Library</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Thursdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >6:15pm to 7:15pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Una Marson Library</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >Saturdays</mj-text
+          >
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text
+            padding-bottom="0px"
+            color="#29292b"
+            font-size="14px"
+            line-height="21px"
+            >11am to 12pm</mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="left"
+          line-height="31px"
+          font-size="24px"
+          color="#9e1f82"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Our specialist subject offering this term:</mj-text
+        >
+        <mj-text
+          color="#29292b"
+          padding-bottom="10px"
+          font-size="14px"
+          line-height="21px"
+        >
+          <ul>
+            <li style="padding-bottom: 10px">
+              <span style="font-weight: bold">3D Technology:</span> Learn 3D
+              design and printing at Una Marson Library.
+            </li>
+            <li>
+              <span style="font-weight: bold">Coding with Lego:</span> Launching
+              in September at Canada Water Library, learn to code using Lego
+              Prime and Lego Essentials.
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- DofE -->
+    <mj-section background-color="#51AA34">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="30px"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Duke of Edinburgh’s Award</mj-text
+        >
+        <mj-image
+          width="138px"
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66d47290faa4f95218f398a9.png"
+          alt="DofE"
+          padding-bottom="10px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#29292b"
+          padding-bottom="10px"
+        >
+          We are proud to be an Approved Activity Provider for the Skills
+          Section of the Duke of Edinburgh’s Award, offering Bronze, Silver, and
+          Gold levels remotely.<br /><br />
+          Students can choose skills to learn from the Code Hub and Creativity
+          Hub. If the Skills Section is longer three months, feel free to learn
+          a different skill each&nbsp;term.
+        </mj-text>
+        <mj-button
+          align="center"
+          background-color="#ffffff"
+          color="#51AA34"
+          border-radius="32px"
+          border="3px solid #51AA34"
+          href="https://www.ignitehubs.org.uk/duke-of-edinburgh"
+          font-family="Nunito Sans, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-top="10px"
+          font-weight="bold"
+          >Learn more</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- Ways to support us -->
+    <mj-section background-color="#1654B1">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="30px"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Ways to support us</mj-text
+        >
+        <mj-image
+          width="103px"
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66d476a5faa4f95218f39946.png"
+          alt="DofE"
+          padding-bottom="10px"
+          padding-top="10px"
+        ></mj-image>
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#ffffff"
+          padding-bottom="10px"
+        >
+          There are many ways you can help us continue our work. You can make a
+          donation, do your online shopping through Easyfundraising, participate
+          in a challenge event like running a marathon, or&nbsp;volunteer.<br /><br />
+          Click the link below to learn more about how you can get involved.
+          Thank you for your&nbsp;support!
+        </mj-text>
+        <mj-button
+          align="center"
+          background-color="#1654B1"
+          color="#ffffff"
+          border-radius="32px"
+          border="3px solid #ffffff"
+          href="https://www.ignitehubs.org.uk/support-us"
+          font-family="Nunito Sans, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-top="10px"
+          font-weight="bold"
+          >Learn more</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- Spread the word -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text
+          align="center"
+          color="#1654B1"
+          font-size="30px"
+          font-weight="bold"
+          padding-bottom="10px"
+          >Help spread the word</mj-text
+        >
+        <mj-image
+          src="https://img.mailinblue.com/8049166/images/content_library/original/66d477a4faa4f95218f39974.jpg"
+          alt="Students in a robotics class"
+          padding-bottom="10px"
+          padding-top="10px"
+        ></mj-image>
+        <mj-text
+          align="left"
+          line-height="21px"
+          font-size="14px"
+          color="#29292b"
+          padding-bottom="10px"
+        >
+          Our mission is to help young people be career-ready, inspiring them to
+          dream big and equipping them with the skills, connections, and
+          experiences they need to succeed. Our courses are taught by passionate
+          professionals keen to share their knowledge and experience. This
+          ensures that our students gain real-world insights and learn skills
+          highly sought after by the industry.<br /><br />
+          As a small charity with big ambitions, we would greatly appreciate
+          your help in spreading the word. Please tell your friends, family, and
+          school about our classes. To learn more about Ignite Hubs, our vision,
+          and our mission, please visit our website.
+        </mj-text>
+        <mj-button
+          align="center"
+          background-color="#ffffff"
+          color="#1654B1"
+          border-radius="32px"
+          border="3px solid #1654B1"
+          href="https://www.ignitehubs.org.uk/about"
+          font-family="Nunito Sans, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-top="10px"
+          font-weight="bold"
+          >Learn more</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-wrapper full-width="full-width">
+      <mj-section
+        background-url="https://img.mailinblue.com/8049166/images/content_library/original/66d265f15abffb5d74303850.png"
+        vertical-align="middle"
+        background-size="cover"
+        full-width="full-width"
+        background-repeat="no-repeat"
+      >
+        <mj-column width="100%" vertical-align="middle">
+          <mj-text
+            align="center"
+            color="#ffffff"
+            font-size="16px"
+            font-weight="bold"
+            padding-top="130px"
+            padding-bottom="80px"
+            >Reimagining Learning to inspire young minds</mj-text
+          >
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
